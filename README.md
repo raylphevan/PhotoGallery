@@ -9,3 +9,7 @@ If you press on a photo it will open up the page to show the description of the 
 
 ![screenshot_1533907317](https://user-images.githubusercontent.com/40645880/43960308-d8200af8-9c6e-11e8-9ffa-f504236fcc95.png)
 ![screenshot_1533907333](https://user-images.githubusercontent.com/40645880/43960309-d82cfe02-9c6e-11e8-91ae-df8a3ff199cf.png)
+
+
+
+Java files can be found following these directories app/src/main/java/com/evangelista/photogallery/
